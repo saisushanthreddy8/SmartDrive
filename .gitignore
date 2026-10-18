@@ -1,0 +1,9 @@
+# Runtime data (uploaded files, versions, metadata)
+storage/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Frontend dependencies (frontend/dist is committed so the app runs without Node.js)
+frontend/node_modules/
